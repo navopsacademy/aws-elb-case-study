@@ -42,6 +42,16 @@ to distribute traffic between two EC2 instances.
 
 ⚠️ Do not refer to solution until lab is completed.
 
----
+------------------------------------------------------------------------
 
-NavOps Academy
+## 👨‍💻 Author
+
+Rushikesh Sutar\
+DevOps Engineer
+
+Focused on Production-Ready Git Practices
+
+------------------------------------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star.
+
